@@ -17,5 +17,7 @@
 
     footer a {
         text-decoration: none;
+        color: #FFFFFF;
+        text-shadow: #FFFFFF 0.1em 0.1em 0.2em
     }
 </style>
