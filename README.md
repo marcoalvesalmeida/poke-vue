@@ -7,7 +7,7 @@ Também usei a biblioteca animate.css para para criar animações e melhorar a U
     
 ## Stack utilizada
 
-**Front-end:** Vue.JS, Vue Router, Axios
+**Front-end:** Vue.JS, Typescript, Vue Router, Axios
 
 **Back-end:** PokeAPI  (https://pokeapi.co/)
 
