@@ -11,7 +11,7 @@ import { PhGithubLogo } from '@phosphor-icons/vue';
       <div class="card-body">
         <h5 class="card-title">PokeVue</h5>
         <p class="card-text">Esse projeto foi desenvolvido em um curso de Vue.JS onde usei diversas tecnologias para a criação dessa SPA. Aprendi diversos conceitos como Options API e Composition API.</p>
-        <a href="#" class="btn btn-primary"><PhGithubLogo :size="20" color="#FFFFFF" /> Veja no Github</a>
+        <a href="https://github.com/marcoalvesalmeida/poke-vue" target="_blank" class="btn btn-primary"><PhGithubLogo :size="20" color="#FFFFFF" /> Veja no Github</a>
       </div>
     </div>
   </section>
