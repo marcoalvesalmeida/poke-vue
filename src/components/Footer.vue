@@ -1,6 +1,6 @@
 <template>
     <footer class="bg-primary text-light">
-        <p>Design in {{ new Date().getFullYear() }}</p>
+        <p>Developed by <a href="https://github.com/marcoalvesalmeida" target="_blank"> Marco Almeida </a> in {{ new Date().getFullYear() }}</p>
     </footer>
 </template>
 
@@ -13,5 +13,9 @@
         align-items: center;
         justify-content: center;
         height: 56px;
+    }
+
+    footer a {
+        text-decoration: none;
     }
 </style>
