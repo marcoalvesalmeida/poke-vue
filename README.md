@@ -1,4 +1,5 @@
 # PokeVue
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e728b82-a463-4cfb-9311-c91a566bff17/deploy-status)](https://app.netlify.com/sites/marco-poke-vue/deploys)
 
 >Esse projeto foi desenvolvido em um curso de Vue.JS onde usei diversas tecnologias para a criação dessa SPA. Aprendi diversos conceitos como Options API e Composition API. 
 Esse projeto lista os pokemons através do uso da PokeAPI, para criação dos serviços de busca utilizei o Axios. 
